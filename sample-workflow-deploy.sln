@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
+# Visual Studio Version 16 kk
 VisualStudioVersion = 16.0.30815.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sample-workflow-deploy", "sample-workflow-deploy\sample-workflow-deploy.csproj", "{CA9CE1E8-B1A7-45EB-AE6C-4AB729BF0BCA}"
